@@ -1,0 +1,2001 @@
+id,text,sentiment
+1,This is fantastic!,Positive
+2,"Not bad, not great.",Neutral
+3,It's okay.,Neutral
+4,Never buying this again.,Negative
+5,Average at best.,Neutral
+6,I hate this.,Negative
+7,Really disappointed.,Negative
+8,Absolutely thrilled with this!,Positive
+9,Never buying this again.,Negative
+10,Terrible experience.,Negative
+11,"Not bad, not great.",Neutral
+12,Terrible experience.,Negative
+13,Terrible experience.,Negative
+14,"Well done, great job!",Positive
+15,This is fantastic!,Positive
+16,Average at best.,Neutral
+17,Nothing special.,Neutral
+18,Worst thing ever.,Negative
+19,Amazing experience!,Positive
+20,I love this!,Positive
+21,"Well done, great job!",Positive
+22,It's just fine.,Neutral
+23,"Not bad, not great.",Neutral
+24,"Not bad, not great.",Neutral
+25,Average at best.,Neutral
+26,It's just fine.,Neutral
+27,Really disappointed.,Negative
+28,Terrible experience.,Negative
+29,Really disappointed.,Negative
+30,I love this!,Positive
+31,Really disappointed.,Negative
+32,Really disappointed.,Negative
+33,Amazing experience!,Positive
+34,Worst thing ever.,Negative
+35,I hate this.,Negative
+36,I hate this.,Negative
+37,Really disappointed.,Negative
+38,Average at best.,Neutral
+39,This is fantastic!,Positive
+40,Nothing special.,Neutral
+41,Really disappointed.,Negative
+42,I hate this.,Negative
+43,Worst thing ever.,Negative
+44,Absolutely thrilled with this!,Positive
+45,Absolutely thrilled with this!,Positive
+46,Really disappointed.,Negative
+47,Amazing experience!,Positive
+48,This is fantastic!,Positive
+49,Nothing special.,Neutral
+50,Really disappointed.,Negative
+51,Absolutely thrilled with this!,Positive
+52,Really disappointed.,Negative
+53,Worst thing ever.,Negative
+54,Never buying this again.,Negative
+55,It's okay.,Neutral
+56,Nothing special.,Neutral
+57,Worst thing ever.,Negative
+58,Amazing experience!,Positive
+59,Worst thing ever.,Negative
+60,Amazing experience!,Positive
+61,Worst thing ever.,Negative
+62,Amazing experience!,Positive
+63,Absolutely thrilled with this!,Positive
+64,It's just fine.,Neutral
+65,Absolutely thrilled with this!,Positive
+66,It's okay.,Neutral
+67,Really disappointed.,Negative
+68,"Well done, great job!",Positive
+69,Absolutely thrilled with this!,Positive
+70,Never buying this again.,Negative
+71,It's okay.,Neutral
+72,Nothing special.,Neutral
+73,Average at best.,Neutral
+74,I love this!,Positive
+75,Really disappointed.,Negative
+76,Never buying this again.,Negative
+77,Amazing experience!,Positive
+78,It's okay.,Neutral
+79,Worst thing ever.,Negative
+80,"Well done, great job!",Positive
+81,Really disappointed.,Negative
+82,Absolutely thrilled with this!,Positive
+83,Amazing experience!,Positive
+84,I love this!,Positive
+85,I love this!,Positive
+86,This is fantastic!,Positive
+87,It's just fine.,Neutral
+88,It's just fine.,Neutral
+89,"Well done, great job!",Positive
+90,Nothing special.,Neutral
+91,Average at best.,Neutral
+92,"Well done, great job!",Positive
+93,Terrible experience.,Negative
+94,Nothing special.,Neutral
+95,Really disappointed.,Negative
+96,Never buying this again.,Negative
+97,Terrible experience.,Negative
+98,Really disappointed.,Negative
+99,Really disappointed.,Negative
+100,"Well done, great job!",Positive
+101,I love this!,Positive
+102,I love this!,Positive
+103,Really disappointed.,Negative
+104,Terrible experience.,Negative
+105,Never buying this again.,Negative
+106,Terrible experience.,Negative
+107,"Well done, great job!",Positive
+108,Absolutely thrilled with this!,Positive
+109,It's okay.,Neutral
+110,Amazing experience!,Positive
+111,"Not bad, not great.",Neutral
+112,Terrible experience.,Negative
+113,Nothing special.,Neutral
+114,It's okay.,Neutral
+115,This is fantastic!,Positive
+116,Average at best.,Neutral
+117,It's okay.,Neutral
+118,Amazing experience!,Positive
+119,"Not bad, not great.",Neutral
+120,It's just fine.,Neutral
+121,I love this!,Positive
+122,Really disappointed.,Negative
+123,"Well done, great job!",Positive
+124,"Not bad, not great.",Neutral
+125,I love this!,Positive
+126,Never buying this again.,Negative
+127,Worst thing ever.,Negative
+128,Average at best.,Neutral
+129,I love this!,Positive
+130,I love this!,Positive
+131,This is fantastic!,Positive
+132,"Well done, great job!",Positive
+133,Terrible experience.,Negative
+134,Never buying this again.,Negative
+135,This is fantastic!,Positive
+136,Amazing experience!,Positive
+137,Really disappointed.,Negative
+138,Average at best.,Neutral
+139,Average at best.,Neutral
+140,"Well done, great job!",Positive
+141,It's okay.,Neutral
+142,Terrible experience.,Negative
+143,Worst thing ever.,Negative
+144,Terrible experience.,Negative
+145,"Well done, great job!",Positive
+146,Terrible experience.,Negative
+147,It's okay.,Neutral
+148,"Well done, great job!",Positive
+149,It's okay.,Neutral
+150,It's okay.,Neutral
+151,It's just fine.,Neutral
+152,Worst thing ever.,Negative
+153,Nothing special.,Neutral
+154,"Well done, great job!",Positive
+155,I love this!,Positive
+156,I hate this.,Negative
+157,"Well done, great job!",Positive
+158,I hate this.,Negative
+159,"Not bad, not great.",Neutral
+160,"Not bad, not great.",Neutral
+161,Really disappointed.,Negative
+162,Amazing experience!,Positive
+163,Amazing experience!,Positive
+164,"Well done, great job!",Positive
+165,"Well done, great job!",Positive
+166,"Not bad, not great.",Neutral
+167,Amazing experience!,Positive
+168,"Not bad, not great.",Neutral
+169,I love this!,Positive
+170,This is fantastic!,Positive
+171,"Well done, great job!",Positive
+172,"Well done, great job!",Positive
+173,Nothing special.,Neutral
+174,I love this!,Positive
+175,This is fantastic!,Positive
+176,Average at best.,Neutral
+177,Absolutely thrilled with this!,Positive
+178,Amazing experience!,Positive
+179,This is fantastic!,Positive
+180,Never buying this again.,Negative
+181,Amazing experience!,Positive
+182,Amazing experience!,Positive
+183,"Well done, great job!",Positive
+184,Amazing experience!,Positive
+185,This is fantastic!,Positive
+186,Terrible experience.,Negative
+187,Amazing experience!,Positive
+188,"Well done, great job!",Positive
+189,I love this!,Positive
+190,This is fantastic!,Positive
+191,Never buying this again.,Negative
+192,I hate this.,Negative
+193,This is fantastic!,Positive
+194,Average at best.,Neutral
+195,I love this!,Positive
+196,Nothing special.,Neutral
+197,Average at best.,Neutral
+198,Average at best.,Neutral
+199,"Well done, great job!",Positive
+200,"Well done, great job!",Positive
+201,Nothing special.,Neutral
+202,Average at best.,Neutral
+203,Nothing special.,Neutral
+204,"Well done, great job!",Positive
+205,Terrible experience.,Negative
+206,Really disappointed.,Negative
+207,"Not bad, not great.",Neutral
+208,This is fantastic!,Positive
+209,It's just fine.,Neutral
+210,Absolutely thrilled with this!,Positive
+211,Terrible experience.,Negative
+212,Really disappointed.,Negative
+213,I hate this.,Negative
+214,Amazing experience!,Positive
+215,Absolutely thrilled with this!,Positive
+216,Never buying this again.,Negative
+217,Amazing experience!,Positive
+218,This is fantastic!,Positive
+219,Absolutely thrilled with this!,Positive
+220,I hate this.,Negative
+221,Amazing experience!,Positive
+222,Really disappointed.,Negative
+223,"Not bad, not great.",Neutral
+224,This is fantastic!,Positive
+225,I hate this.,Negative
+226,This is fantastic!,Positive
+227,Never buying this again.,Negative
+228,"Not bad, not great.",Neutral
+229,I love this!,Positive
+230,I hate this.,Negative
+231,I love this!,Positive
+232,"Well done, great job!",Positive
+233,"Not bad, not great.",Neutral
+234,Worst thing ever.,Negative
+235,Never buying this again.,Negative
+236,Never buying this again.,Negative
+237,"Well done, great job!",Positive
+238,Average at best.,Neutral
+239,I love this!,Positive
+240,"Well done, great job!",Positive
+241,It's just fine.,Neutral
+242,"Not bad, not great.",Neutral
+243,I love this!,Positive
+244,Really disappointed.,Negative
+245,"Not bad, not great.",Neutral
+246,Average at best.,Neutral
+247,Really disappointed.,Negative
+248,This is fantastic!,Positive
+249,Worst thing ever.,Negative
+250,This is fantastic!,Positive
+251,I hate this.,Negative
+252,I hate this.,Negative
+253,Terrible experience.,Negative
+254,Really disappointed.,Negative
+255,Worst thing ever.,Negative
+256,Amazing experience!,Positive
+257,Worst thing ever.,Negative
+258,"Well done, great job!",Positive
+259,Nothing special.,Neutral
+260,Average at best.,Neutral
+261,Amazing experience!,Positive
+262,Nothing special.,Neutral
+263,I love this!,Positive
+264,It's just fine.,Neutral
+265,Nothing special.,Neutral
+266,Worst thing ever.,Negative
+267,Average at best.,Neutral
+268,I love this!,Positive
+269,"Not bad, not great.",Neutral
+270,"Not bad, not great.",Neutral
+271,Absolutely thrilled with this!,Positive
+272,Never buying this again.,Negative
+273,"Not bad, not great.",Neutral
+274,"Well done, great job!",Positive
+275,Amazing experience!,Positive
+276,"Not bad, not great.",Neutral
+277,It's just fine.,Neutral
+278,Terrible experience.,Negative
+279,"Well done, great job!",Positive
+280,Nothing special.,Neutral
+281,"Well done, great job!",Positive
+282,Nothing special.,Neutral
+283,It's just fine.,Neutral
+284,Really disappointed.,Negative
+285,Average at best.,Neutral
+286,I love this!,Positive
+287,It's just fine.,Neutral
+288,This is fantastic!,Positive
+289,Average at best.,Neutral
+290,It's okay.,Neutral
+291,Absolutely thrilled with this!,Positive
+292,Worst thing ever.,Negative
+293,Worst thing ever.,Negative
+294,I hate this.,Negative
+295,This is fantastic!,Positive
+296,Really disappointed.,Negative
+297,I hate this.,Negative
+298,This is fantastic!,Positive
+299,"Not bad, not great.",Neutral
+300,It's just fine.,Neutral
+301,Terrible experience.,Negative
+302,It's okay.,Neutral
+303,Never buying this again.,Negative
+304,It's just fine.,Neutral
+305,It's okay.,Neutral
+306,This is fantastic!,Positive
+307,"Not bad, not great.",Neutral
+308,Average at best.,Neutral
+309,Never buying this again.,Negative
+310,It's just fine.,Neutral
+311,Worst thing ever.,Negative
+312,Worst thing ever.,Negative
+313,It's just fine.,Neutral
+314,It's just fine.,Neutral
+315,Never buying this again.,Negative
+316,Worst thing ever.,Negative
+317,"Not bad, not great.",Neutral
+318,It's just fine.,Neutral
+319,Nothing special.,Neutral
+320,"Not bad, not great.",Neutral
+321,Average at best.,Neutral
+322,Absolutely thrilled with this!,Positive
+323,It's just fine.,Neutral
+324,This is fantastic!,Positive
+325,Average at best.,Neutral
+326,It's just fine.,Neutral
+327,Never buying this again.,Negative
+328,I love this!,Positive
+329,Average at best.,Neutral
+330,"Well done, great job!",Positive
+331,Never buying this again.,Negative
+332,I love this!,Positive
+333,It's just fine.,Neutral
+334,Amazing experience!,Positive
+335,Worst thing ever.,Negative
+336,It's just fine.,Neutral
+337,"Not bad, not great.",Neutral
+338,It's just fine.,Neutral
+339,I hate this.,Negative
+340,"Not bad, not great.",Neutral
+341,This is fantastic!,Positive
+342,"Not bad, not great.",Neutral
+343,Never buying this again.,Negative
+344,"Well done, great job!",Positive
+345,Amazing experience!,Positive
+346,Terrible experience.,Negative
+347,Nothing special.,Neutral
+348,Never buying this again.,Negative
+349,It's okay.,Neutral
+350,Really disappointed.,Negative
+351,"Not bad, not great.",Neutral
+352,Amazing experience!,Positive
+353,It's okay.,Neutral
+354,This is fantastic!,Positive
+355,"Well done, great job!",Positive
+356,I hate this.,Negative
+357,"Not bad, not great.",Neutral
+358,I love this!,Positive
+359,I love this!,Positive
+360,It's okay.,Neutral
+361,"Not bad, not great.",Neutral
+362,Amazing experience!,Positive
+363,Terrible experience.,Negative
+364,Never buying this again.,Negative
+365,Never buying this again.,Negative
+366,This is fantastic!,Positive
+367,I hate this.,Negative
+368,Never buying this again.,Negative
+369,"Well done, great job!",Positive
+370,Worst thing ever.,Negative
+371,It's just fine.,Neutral
+372,I hate this.,Negative
+373,It's just fine.,Neutral
+374,I hate this.,Negative
+375,Terrible experience.,Negative
+376,Absolutely thrilled with this!,Positive
+377,"Not bad, not great.",Neutral
+378,Terrible experience.,Negative
+379,I love this!,Positive
+380,"Well done, great job!",Positive
+381,Nothing special.,Neutral
+382,I love this!,Positive
+383,Amazing experience!,Positive
+384,Worst thing ever.,Negative
+385,Terrible experience.,Negative
+386,"Well done, great job!",Positive
+387,Really disappointed.,Negative
+388,Worst thing ever.,Negative
+389,It's okay.,Neutral
+390,Really disappointed.,Negative
+391,This is fantastic!,Positive
+392,Amazing experience!,Positive
+393,Nothing special.,Neutral
+394,Terrible experience.,Negative
+395,It's just fine.,Neutral
+396,Really disappointed.,Negative
+397,Terrible experience.,Negative
+398,This is fantastic!,Positive
+399,It's just fine.,Neutral
+400,It's okay.,Neutral
+401,This is fantastic!,Positive
+402,I hate this.,Negative
+403,I hate this.,Negative
+404,I hate this.,Negative
+405,Nothing special.,Neutral
+406,This is fantastic!,Positive
+407,Average at best.,Neutral
+408,"Not bad, not great.",Neutral
+409,Terrible experience.,Negative
+410,Worst thing ever.,Negative
+411,I hate this.,Negative
+412,This is fantastic!,Positive
+413,Absolutely thrilled with this!,Positive
+414,Amazing experience!,Positive
+415,Nothing special.,Neutral
+416,I love this!,Positive
+417,Worst thing ever.,Negative
+418,Never buying this again.,Negative
+419,Average at best.,Neutral
+420,Really disappointed.,Negative
+421,I love this!,Positive
+422,It's just fine.,Neutral
+423,Terrible experience.,Negative
+424,Absolutely thrilled with this!,Positive
+425,Amazing experience!,Positive
+426,I love this!,Positive
+427,"Not bad, not great.",Neutral
+428,Amazing experience!,Positive
+429,Absolutely thrilled with this!,Positive
+430,It's okay.,Neutral
+431,Never buying this again.,Negative
+432,It's just fine.,Neutral
+433,It's just fine.,Neutral
+434,This is fantastic!,Positive
+435,Worst thing ever.,Negative
+436,Never buying this again.,Negative
+437,It's okay.,Neutral
+438,Amazing experience!,Positive
+439,It's okay.,Neutral
+440,Nothing special.,Neutral
+441,It's okay.,Neutral
+442,Terrible experience.,Negative
+443,It's just fine.,Neutral
+444,Worst thing ever.,Negative
+445,It's just fine.,Neutral
+446,It's just fine.,Neutral
+447,Nothing special.,Neutral
+448,Never buying this again.,Negative
+449,Average at best.,Neutral
+450,I love this!,Positive
+451,Absolutely thrilled with this!,Positive
+452,Nothing special.,Neutral
+453,It's okay.,Neutral
+454,It's okay.,Neutral
+455,It's okay.,Neutral
+456,Amazing experience!,Positive
+457,This is fantastic!,Positive
+458,Never buying this again.,Negative
+459,"Not bad, not great.",Neutral
+460,"Not bad, not great.",Neutral
+461,Terrible experience.,Negative
+462,It's just fine.,Neutral
+463,Average at best.,Neutral
+464,Terrible experience.,Negative
+465,Absolutely thrilled with this!,Positive
+466,Amazing experience!,Positive
+467,I love this!,Positive
+468,I hate this.,Negative
+469,Terrible experience.,Negative
+470,Terrible experience.,Negative
+471,Really disappointed.,Negative
+472,"Not bad, not great.",Neutral
+473,"Not bad, not great.",Neutral
+474,Average at best.,Neutral
+475,"Not bad, not great.",Neutral
+476,It's just fine.,Neutral
+477,Worst thing ever.,Negative
+478,Average at best.,Neutral
+479,"Well done, great job!",Positive
+480,Absolutely thrilled with this!,Positive
+481,This is fantastic!,Positive
+482,Really disappointed.,Negative
+483,Really disappointed.,Negative
+484,Really disappointed.,Negative
+485,Really disappointed.,Negative
+486,Really disappointed.,Negative
+487,Nothing special.,Neutral
+488,Never buying this again.,Negative
+489,Really disappointed.,Negative
+490,It's okay.,Neutral
+491,Never buying this again.,Negative
+492,"Not bad, not great.",Neutral
+493,Amazing experience!,Positive
+494,"Not bad, not great.",Neutral
+495,"Well done, great job!",Positive
+496,Nothing special.,Neutral
+497,It's just fine.,Neutral
+498,"Not bad, not great.",Neutral
+499,Amazing experience!,Positive
+500,"Well done, great job!",Positive
+501,Worst thing ever.,Negative
+502,Average at best.,Neutral
+503,Average at best.,Neutral
+504,Amazing experience!,Positive
+505,Amazing experience!,Positive
+506,Terrible experience.,Negative
+507,"Well done, great job!",Positive
+508,I hate this.,Negative
+509,This is fantastic!,Positive
+510,Terrible experience.,Negative
+511,Average at best.,Neutral
+512,I love this!,Positive
+513,"Well done, great job!",Positive
+514,It's just fine.,Neutral
+515,Never buying this again.,Negative
+516,Worst thing ever.,Negative
+517,It's just fine.,Neutral
+518,Worst thing ever.,Negative
+519,Nothing special.,Neutral
+520,I hate this.,Negative
+521,Absolutely thrilled with this!,Positive
+522,"Well done, great job!",Positive
+523,Really disappointed.,Negative
+524,It's just fine.,Neutral
+525,I hate this.,Negative
+526,Amazing experience!,Positive
+527,Nothing special.,Neutral
+528,Amazing experience!,Positive
+529,"Not bad, not great.",Neutral
+530,It's okay.,Neutral
+531,It's just fine.,Neutral
+532,Absolutely thrilled with this!,Positive
+533,I hate this.,Negative
+534,Never buying this again.,Negative
+535,Amazing experience!,Positive
+536,I love this!,Positive
+537,Worst thing ever.,Negative
+538,Amazing experience!,Positive
+539,Terrible experience.,Negative
+540,Never buying this again.,Negative
+541,Nothing special.,Neutral
+542,Average at best.,Neutral
+543,"Well done, great job!",Positive
+544,Terrible experience.,Negative
+545,Worst thing ever.,Negative
+546,I love this!,Positive
+547,It's okay.,Neutral
+548,Worst thing ever.,Negative
+549,It's okay.,Neutral
+550,It's just fine.,Neutral
+551,I love this!,Positive
+552,"Not bad, not great.",Neutral
+553,It's okay.,Neutral
+554,Terrible experience.,Negative
+555,Amazing experience!,Positive
+556,This is fantastic!,Positive
+557,Amazing experience!,Positive
+558,It's okay.,Neutral
+559,I love this!,Positive
+560,This is fantastic!,Positive
+561,I love this!,Positive
+562,Nothing special.,Neutral
+563,"Not bad, not great.",Neutral
+564,It's just fine.,Neutral
+565,It's okay.,Neutral
+566,Really disappointed.,Negative
+567,Really disappointed.,Negative
+568,I hate this.,Negative
+569,Amazing experience!,Positive
+570,I love this!,Positive
+571,Terrible experience.,Negative
+572,"Not bad, not great.",Neutral
+573,This is fantastic!,Positive
+574,Amazing experience!,Positive
+575,Nothing special.,Neutral
+576,Average at best.,Neutral
+577,It's okay.,Neutral
+578,"Not bad, not great.",Neutral
+579,I hate this.,Negative
+580,Average at best.,Neutral
+581,Absolutely thrilled with this!,Positive
+582,It's just fine.,Neutral
+583,This is fantastic!,Positive
+584,Nothing special.,Neutral
+585,Average at best.,Neutral
+586,"Well done, great job!",Positive
+587,It's just fine.,Neutral
+588,Nothing special.,Neutral
+589,"Not bad, not great.",Neutral
+590,Absolutely thrilled with this!,Positive
+591,Nothing special.,Neutral
+592,Never buying this again.,Negative
+593,It's okay.,Neutral
+594,"Not bad, not great.",Neutral
+595,Never buying this again.,Negative
+596,I hate this.,Negative
+597,Terrible experience.,Negative
+598,This is fantastic!,Positive
+599,I hate this.,Negative
+600,Worst thing ever.,Negative
+601,Terrible experience.,Negative
+602,This is fantastic!,Positive
+603,Amazing experience!,Positive
+604,I love this!,Positive
+605,Terrible experience.,Negative
+606,Never buying this again.,Negative
+607,Nothing special.,Neutral
+608,Never buying this again.,Negative
+609,Terrible experience.,Negative
+610,Terrible experience.,Negative
+611,Terrible experience.,Negative
+612,This is fantastic!,Positive
+613,Never buying this again.,Negative
+614,"Well done, great job!",Positive
+615,It's okay.,Neutral
+616,I love this!,Positive
+617,I hate this.,Negative
+618,It's okay.,Neutral
+619,This is fantastic!,Positive
+620,I hate this.,Negative
+621,Worst thing ever.,Negative
+622,This is fantastic!,Positive
+623,Average at best.,Neutral
+624,Never buying this again.,Negative
+625,I love this!,Positive
+626,I love this!,Positive
+627,Amazing experience!,Positive
+628,This is fantastic!,Positive
+629,I love this!,Positive
+630,Worst thing ever.,Negative
+631,It's just fine.,Neutral
+632,Average at best.,Neutral
+633,This is fantastic!,Positive
+634,"Not bad, not great.",Neutral
+635,Nothing special.,Neutral
+636,This is fantastic!,Positive
+637,Terrible experience.,Negative
+638,Amazing experience!,Positive
+639,I hate this.,Negative
+640,"Well done, great job!",Positive
+641,This is fantastic!,Positive
+642,Nothing special.,Neutral
+643,Nothing special.,Neutral
+644,Terrible experience.,Negative
+645,It's just fine.,Neutral
+646,It's just fine.,Neutral
+647,Nothing special.,Neutral
+648,Amazing experience!,Positive
+649,Average at best.,Neutral
+650,I love this!,Positive
+651,This is fantastic!,Positive
+652,Average at best.,Neutral
+653,Average at best.,Neutral
+654,Never buying this again.,Negative
+655,Really disappointed.,Negative
+656,Worst thing ever.,Negative
+657,It's just fine.,Neutral
+658,Terrible experience.,Negative
+659,It's okay.,Neutral
+660,Amazing experience!,Positive
+661,Amazing experience!,Positive
+662,It's okay.,Neutral
+663,I love this!,Positive
+664,Never buying this again.,Negative
+665,Absolutely thrilled with this!,Positive
+666,I love this!,Positive
+667,Absolutely thrilled with this!,Positive
+668,Absolutely thrilled with this!,Positive
+669,It's just fine.,Neutral
+670,It's okay.,Neutral
+671,Amazing experience!,Positive
+672,"Not bad, not great.",Neutral
+673,Worst thing ever.,Negative
+674,I hate this.,Negative
+675,Average at best.,Neutral
+676,Never buying this again.,Negative
+677,Terrible experience.,Negative
+678,This is fantastic!,Positive
+679,Worst thing ever.,Negative
+680,Terrible experience.,Negative
+681,Really disappointed.,Negative
+682,"Not bad, not great.",Neutral
+683,Amazing experience!,Positive
+684,Absolutely thrilled with this!,Positive
+685,Absolutely thrilled with this!,Positive
+686,Never buying this again.,Negative
+687,Nothing special.,Neutral
+688,Amazing experience!,Positive
+689,Really disappointed.,Negative
+690,"Well done, great job!",Positive
+691,"Not bad, not great.",Neutral
+692,Never buying this again.,Negative
+693,Worst thing ever.,Negative
+694,It's just fine.,Neutral
+695,Worst thing ever.,Negative
+696,Absolutely thrilled with this!,Positive
+697,It's okay.,Neutral
+698,Nothing special.,Neutral
+699,This is fantastic!,Positive
+700,Average at best.,Neutral
+701,Amazing experience!,Positive
+702,"Well done, great job!",Positive
+703,It's just fine.,Neutral
+704,Worst thing ever.,Negative
+705,This is fantastic!,Positive
+706,I love this!,Positive
+707,"Not bad, not great.",Neutral
+708,"Not bad, not great.",Neutral
+709,Never buying this again.,Negative
+710,Average at best.,Neutral
+711,Nothing special.,Neutral
+712,It's just fine.,Neutral
+713,I love this!,Positive
+714,I love this!,Positive
+715,Amazing experience!,Positive
+716,Worst thing ever.,Negative
+717,Amazing experience!,Positive
+718,It's just fine.,Neutral
+719,Average at best.,Neutral
+720,It's just fine.,Neutral
+721,I hate this.,Negative
+722,"Not bad, not great.",Neutral
+723,"Not bad, not great.",Neutral
+724,"Well done, great job!",Positive
+725,I love this!,Positive
+726,Really disappointed.,Negative
+727,It's just fine.,Neutral
+728,I love this!,Positive
+729,Average at best.,Neutral
+730,"Not bad, not great.",Neutral
+731,Terrible experience.,Negative
+732,"Well done, great job!",Positive
+733,"Well done, great job!",Positive
+734,Terrible experience.,Negative
+735,Absolutely thrilled with this!,Positive
+736,It's okay.,Neutral
+737,Average at best.,Neutral
+738,Amazing experience!,Positive
+739,Nothing special.,Neutral
+740,Never buying this again.,Negative
+741,Really disappointed.,Negative
+742,Worst thing ever.,Negative
+743,Never buying this again.,Negative
+744,Worst thing ever.,Negative
+745,It's just fine.,Neutral
+746,I hate this.,Negative
+747,It's just fine.,Neutral
+748,Nothing special.,Neutral
+749,This is fantastic!,Positive
+750,Really disappointed.,Negative
+751,It's okay.,Neutral
+752,"Not bad, not great.",Neutral
+753,Really disappointed.,Negative
+754,It's just fine.,Neutral
+755,Never buying this again.,Negative
+756,Worst thing ever.,Negative
+757,This is fantastic!,Positive
+758,Worst thing ever.,Negative
+759,It's okay.,Neutral
+760,Really disappointed.,Negative
+761,Nothing special.,Neutral
+762,Average at best.,Neutral
+763,This is fantastic!,Positive
+764,Nothing special.,Neutral
+765,I love this!,Positive
+766,Terrible experience.,Negative
+767,Nothing special.,Neutral
+768,"Not bad, not great.",Neutral
+769,Average at best.,Neutral
+770,This is fantastic!,Positive
+771,"Well done, great job!",Positive
+772,Terrible experience.,Negative
+773,Really disappointed.,Negative
+774,Absolutely thrilled with this!,Positive
+775,This is fantastic!,Positive
+776,Never buying this again.,Negative
+777,I love this!,Positive
+778,I hate this.,Negative
+779,It's just fine.,Neutral
+780,Amazing experience!,Positive
+781,Worst thing ever.,Negative
+782,I hate this.,Negative
+783,Terrible experience.,Negative
+784,"Not bad, not great.",Neutral
+785,Never buying this again.,Negative
+786,Really disappointed.,Negative
+787,It's just fine.,Neutral
+788,Amazing experience!,Positive
+789,I hate this.,Negative
+790,Never buying this again.,Negative
+791,It's okay.,Neutral
+792,I love this!,Positive
+793,Absolutely thrilled with this!,Positive
+794,"Well done, great job!",Positive
+795,It's okay.,Neutral
+796,Terrible experience.,Negative
+797,Never buying this again.,Negative
+798,Nothing special.,Neutral
+799,"Not bad, not great.",Neutral
+800,Really disappointed.,Negative
+801,"Well done, great job!",Positive
+802,Terrible experience.,Negative
+803,Absolutely thrilled with this!,Positive
+804,Really disappointed.,Negative
+805,Worst thing ever.,Negative
+806,Worst thing ever.,Negative
+807,Really disappointed.,Negative
+808,Worst thing ever.,Negative
+809,I hate this.,Negative
+810,It's okay.,Neutral
+811,Terrible experience.,Negative
+812,"Not bad, not great.",Neutral
+813,Terrible experience.,Negative
+814,Really disappointed.,Negative
+815,I love this!,Positive
+816,Nothing special.,Neutral
+817,Amazing experience!,Positive
+818,I love this!,Positive
+819,"Well done, great job!",Positive
+820,I love this!,Positive
+821,This is fantastic!,Positive
+822,Really disappointed.,Negative
+823,Absolutely thrilled with this!,Positive
+824,I hate this.,Negative
+825,It's just fine.,Neutral
+826,Terrible experience.,Negative
+827,It's just fine.,Neutral
+828,Terrible experience.,Negative
+829,I hate this.,Negative
+830,Amazing experience!,Positive
+831,It's just fine.,Neutral
+832,Absolutely thrilled with this!,Positive
+833,Nothing special.,Neutral
+834,Average at best.,Neutral
+835,Absolutely thrilled with this!,Positive
+836,I love this!,Positive
+837,I hate this.,Negative
+838,"Well done, great job!",Positive
+839,Absolutely thrilled with this!,Positive
+840,Worst thing ever.,Negative
+841,Average at best.,Neutral
+842,Average at best.,Neutral
+843,It's okay.,Neutral
+844,Amazing experience!,Positive
+845,Never buying this again.,Negative
+846,Amazing experience!,Positive
+847,Average at best.,Neutral
+848,Nothing special.,Neutral
+849,"Well done, great job!",Positive
+850,Average at best.,Neutral
+851,Absolutely thrilled with this!,Positive
+852,It's okay.,Neutral
+853,It's just fine.,Neutral
+854,Terrible experience.,Negative
+855,Average at best.,Neutral
+856,Really disappointed.,Negative
+857,Absolutely thrilled with this!,Positive
+858,Worst thing ever.,Negative
+859,Average at best.,Neutral
+860,Absolutely thrilled with this!,Positive
+861,I hate this.,Negative
+862,Amazing experience!,Positive
+863,Terrible experience.,Negative
+864,Nothing special.,Neutral
+865,Nothing special.,Neutral
+866,Amazing experience!,Positive
+867,It's okay.,Neutral
+868,Nothing special.,Neutral
+869,Worst thing ever.,Negative
+870,Terrible experience.,Negative
+871,Amazing experience!,Positive
+872,It's just fine.,Neutral
+873,Worst thing ever.,Negative
+874,Never buying this again.,Negative
+875,It's just fine.,Neutral
+876,Worst thing ever.,Negative
+877,"Not bad, not great.",Neutral
+878,It's just fine.,Neutral
+879,Never buying this again.,Negative
+880,Nothing special.,Neutral
+881,It's just fine.,Neutral
+882,Really disappointed.,Negative
+883,It's okay.,Neutral
+884,Really disappointed.,Negative
+885,Never buying this again.,Negative
+886,Amazing experience!,Positive
+887,I hate this.,Negative
+888,I love this!,Positive
+889,Terrible experience.,Negative
+890,Amazing experience!,Positive
+891,Absolutely thrilled with this!,Positive
+892,It's okay.,Neutral
+893,"Well done, great job!",Positive
+894,Absolutely thrilled with this!,Positive
+895,It's okay.,Neutral
+896,Average at best.,Neutral
+897,It's just fine.,Neutral
+898,It's okay.,Neutral
+899,Absolutely thrilled with this!,Positive
+900,Never buying this again.,Negative
+901,Worst thing ever.,Negative
+902,"Not bad, not great.",Neutral
+903,"Not bad, not great.",Neutral
+904,Absolutely thrilled with this!,Positive
+905,I love this!,Positive
+906,"Not bad, not great.",Neutral
+907,Average at best.,Neutral
+908,Worst thing ever.,Negative
+909,"Not bad, not great.",Neutral
+910,Terrible experience.,Negative
+911,Nothing special.,Neutral
+912,"Not bad, not great.",Neutral
+913,Worst thing ever.,Negative
+914,Amazing experience!,Positive
+915,Terrible experience.,Negative
+916,I hate this.,Negative
+917,Worst thing ever.,Negative
+918,Nothing special.,Neutral
+919,I hate this.,Negative
+920,I love this!,Positive
+921,I love this!,Positive
+922,It's okay.,Neutral
+923,Terrible experience.,Negative
+924,Average at best.,Neutral
+925,"Well done, great job!",Positive
+926,Really disappointed.,Negative
+927,Really disappointed.,Negative
+928,Absolutely thrilled with this!,Positive
+929,This is fantastic!,Positive
+930,Average at best.,Neutral
+931,Worst thing ever.,Negative
+932,Worst thing ever.,Negative
+933,"Not bad, not great.",Neutral
+934,"Well done, great job!",Positive
+935,It's okay.,Neutral
+936,It's okay.,Neutral
+937,Absolutely thrilled with this!,Positive
+938,Really disappointed.,Negative
+939,It's just fine.,Neutral
+940,This is fantastic!,Positive
+941,Terrible experience.,Negative
+942,Really disappointed.,Negative
+943,"Well done, great job!",Positive
+944,Absolutely thrilled with this!,Positive
+945,This is fantastic!,Positive
+946,Worst thing ever.,Negative
+947,Terrible experience.,Negative
+948,Never buying this again.,Negative
+949,Amazing experience!,Positive
+950,"Not bad, not great.",Neutral
+951,Really disappointed.,Negative
+952,Amazing experience!,Positive
+953,I love this!,Positive
+954,Nothing special.,Neutral
+955,I hate this.,Negative
+956,Really disappointed.,Negative
+957,I hate this.,Negative
+958,Average at best.,Neutral
+959,Average at best.,Neutral
+960,Average at best.,Neutral
+961,Worst thing ever.,Negative
+962,"Not bad, not great.",Neutral
+963,"Not bad, not great.",Neutral
+964,Never buying this again.,Negative
+965,Never buying this again.,Negative
+966,Absolutely thrilled with this!,Positive
+967,Worst thing ever.,Negative
+968,Absolutely thrilled with this!,Positive
+969,It's okay.,Neutral
+970,Really disappointed.,Negative
+971,This is fantastic!,Positive
+972,This is fantastic!,Positive
+973,I hate this.,Negative
+974,"Not bad, not great.",Neutral
+975,Nothing special.,Neutral
+976,Really disappointed.,Negative
+977,Amazing experience!,Positive
+978,Absolutely thrilled with this!,Positive
+979,I love this!,Positive
+980,"Well done, great job!",Positive
+981,I love this!,Positive
+982,Average at best.,Neutral
+983,It's just fine.,Neutral
+984,Really disappointed.,Negative
+985,Really disappointed.,Negative
+986,Absolutely thrilled with this!,Positive
+987,"Well done, great job!",Positive
+988,Amazing experience!,Positive
+989,Terrible experience.,Negative
+990,Never buying this again.,Negative
+991,"Well done, great job!",Positive
+992,It's just fine.,Neutral
+993,I hate this.,Negative
+994,Never buying this again.,Negative
+995,It's just fine.,Neutral
+996,Worst thing ever.,Negative
+997,It's okay.,Neutral
+998,It's just fine.,Neutral
+999,Terrible experience.,Negative
+1000,Absolutely thrilled with this!,Positive
+1001,"Well done, great job!",Positive
+1002,Worst thing ever.,Negative
+1003,"Well done, great job!",Positive
+1004,Amazing experience!,Positive
+1005,Terrible experience.,Negative
+1006,Average at best.,Neutral
+1007,I hate this.,Negative
+1008,Average at best.,Neutral
+1009,I hate this.,Negative
+1010,It's just fine.,Neutral
+1011,Nothing special.,Neutral
+1012,Worst thing ever.,Negative
+1013,I hate this.,Negative
+1014,It's just fine.,Neutral
+1015,I love this!,Positive
+1016,Nothing special.,Neutral
+1017,"Well done, great job!",Positive
+1018,Absolutely thrilled with this!,Positive
+1019,Terrible experience.,Negative
+1020,Amazing experience!,Positive
+1021,It's okay.,Neutral
+1022,I love this!,Positive
+1023,Really disappointed.,Negative
+1024,I love this!,Positive
+1025,Absolutely thrilled with this!,Positive
+1026,It's okay.,Neutral
+1027,This is fantastic!,Positive
+1028,Really disappointed.,Negative
+1029,Nothing special.,Neutral
+1030,It's okay.,Neutral
+1031,Really disappointed.,Negative
+1032,Never buying this again.,Negative
+1033,Worst thing ever.,Negative
+1034,I love this!,Positive
+1035,Nothing special.,Neutral
+1036,It's okay.,Neutral
+1037,"Not bad, not great.",Neutral
+1038,Absolutely thrilled with this!,Positive
+1039,It's okay.,Neutral
+1040,This is fantastic!,Positive
+1041,Never buying this again.,Negative
+1042,"Well done, great job!",Positive
+1043,"Not bad, not great.",Neutral
+1044,This is fantastic!,Positive
+1045,Never buying this again.,Negative
+1046,I hate this.,Negative
+1047,It's just fine.,Neutral
+1048,It's just fine.,Neutral
+1049,Amazing experience!,Positive
+1050,Absolutely thrilled with this!,Positive
+1051,This is fantastic!,Positive
+1052,I love this!,Positive
+1053,"Well done, great job!",Positive
+1054,Amazing experience!,Positive
+1055,Terrible experience.,Negative
+1056,Average at best.,Neutral
+1057,Nothing special.,Neutral
+1058,Nothing special.,Neutral
+1059,I hate this.,Negative
+1060,I love this!,Positive
+1061,"Well done, great job!",Positive
+1062,Really disappointed.,Negative
+1063,"Well done, great job!",Positive
+1064,"Well done, great job!",Positive
+1065,"Not bad, not great.",Neutral
+1066,"Not bad, not great.",Neutral
+1067,"Not bad, not great.",Neutral
+1068,Never buying this again.,Negative
+1069,It's just fine.,Neutral
+1070,"Not bad, not great.",Neutral
+1071,This is fantastic!,Positive
+1072,Nothing special.,Neutral
+1073,This is fantastic!,Positive
+1074,Really disappointed.,Negative
+1075,Terrible experience.,Negative
+1076,It's okay.,Neutral
+1077,Average at best.,Neutral
+1078,Amazing experience!,Positive
+1079,It's just fine.,Neutral
+1080,Average at best.,Neutral
+1081,It's just fine.,Neutral
+1082,It's okay.,Neutral
+1083,Worst thing ever.,Negative
+1084,Absolutely thrilled with this!,Positive
+1085,Amazing experience!,Positive
+1086,I hate this.,Negative
+1087,"Not bad, not great.",Neutral
+1088,"Not bad, not great.",Neutral
+1089,I love this!,Positive
+1090,I love this!,Positive
+1091,It's okay.,Neutral
+1092,Amazing experience!,Positive
+1093,Really disappointed.,Negative
+1094,"Not bad, not great.",Neutral
+1095,I hate this.,Negative
+1096,I hate this.,Negative
+1097,Amazing experience!,Positive
+1098,I hate this.,Negative
+1099,I love this!,Positive
+1100,Average at best.,Neutral
+1101,Terrible experience.,Negative
+1102,Average at best.,Neutral
+1103,"Not bad, not great.",Neutral
+1104,It's just fine.,Neutral
+1105,Average at best.,Neutral
+1106,"Well done, great job!",Positive
+1107,Absolutely thrilled with this!,Positive
+1108,I hate this.,Negative
+1109,It's okay.,Neutral
+1110,Really disappointed.,Negative
+1111,Absolutely thrilled with this!,Positive
+1112,"Not bad, not great.",Neutral
+1113,It's okay.,Neutral
+1114,Nothing special.,Neutral
+1115,"Well done, great job!",Positive
+1116,Terrible experience.,Negative
+1117,"Well done, great job!",Positive
+1118,Average at best.,Neutral
+1119,Really disappointed.,Negative
+1120,Never buying this again.,Negative
+1121,Worst thing ever.,Negative
+1122,"Well done, great job!",Positive
+1123,"Well done, great job!",Positive
+1124,I hate this.,Negative
+1125,I love this!,Positive
+1126,Never buying this again.,Negative
+1127,I love this!,Positive
+1128,"Well done, great job!",Positive
+1129,I hate this.,Negative
+1130,Nothing special.,Neutral
+1131,Nothing special.,Neutral
+1132,Worst thing ever.,Negative
+1133,Absolutely thrilled with this!,Positive
+1134,I love this!,Positive
+1135,Nothing special.,Neutral
+1136,I love this!,Positive
+1137,Nothing special.,Neutral
+1138,This is fantastic!,Positive
+1139,I love this!,Positive
+1140,I love this!,Positive
+1141,Absolutely thrilled with this!,Positive
+1142,Average at best.,Neutral
+1143,Average at best.,Neutral
+1144,It's just fine.,Neutral
+1145,This is fantastic!,Positive
+1146,Worst thing ever.,Negative
+1147,Absolutely thrilled with this!,Positive
+1148,Really disappointed.,Negative
+1149,It's just fine.,Neutral
+1150,Worst thing ever.,Negative
+1151,Worst thing ever.,Negative
+1152,This is fantastic!,Positive
+1153,This is fantastic!,Positive
+1154,I hate this.,Negative
+1155,Worst thing ever.,Negative
+1156,Absolutely thrilled with this!,Positive
+1157,It's just fine.,Neutral
+1158,I love this!,Positive
+1159,Never buying this again.,Negative
+1160,"Not bad, not great.",Neutral
+1161,It's just fine.,Neutral
+1162,Absolutely thrilled with this!,Positive
+1163,I hate this.,Negative
+1164,Terrible experience.,Negative
+1165,It's just fine.,Neutral
+1166,It's okay.,Neutral
+1167,It's okay.,Neutral
+1168,"Not bad, not great.",Neutral
+1169,Worst thing ever.,Negative
+1170,It's okay.,Neutral
+1171,Worst thing ever.,Negative
+1172,Amazing experience!,Positive
+1173,It's just fine.,Neutral
+1174,This is fantastic!,Positive
+1175,Average at best.,Neutral
+1176,"Not bad, not great.",Neutral
+1177,I hate this.,Negative
+1178,Terrible experience.,Negative
+1179,Amazing experience!,Positive
+1180,"Not bad, not great.",Neutral
+1181,I love this!,Positive
+1182,I hate this.,Negative
+1183,Nothing special.,Neutral
+1184,This is fantastic!,Positive
+1185,Worst thing ever.,Negative
+1186,This is fantastic!,Positive
+1187,Never buying this again.,Negative
+1188,Really disappointed.,Negative
+1189,Absolutely thrilled with this!,Positive
+1190,Worst thing ever.,Negative
+1191,Absolutely thrilled with this!,Positive
+1192,It's okay.,Neutral
+1193,Nothing special.,Neutral
+1194,Never buying this again.,Negative
+1195,"Well done, great job!",Positive
+1196,I love this!,Positive
+1197,This is fantastic!,Positive
+1198,Nothing special.,Neutral
+1199,It's just fine.,Neutral
+1200,Worst thing ever.,Negative
+1201,It's okay.,Neutral
+1202,I love this!,Positive
+1203,I hate this.,Negative
+1204,Absolutely thrilled with this!,Positive
+1205,This is fantastic!,Positive
+1206,Average at best.,Neutral
+1207,Never buying this again.,Negative
+1208,I hate this.,Negative
+1209,"Well done, great job!",Positive
+1210,Never buying this again.,Negative
+1211,This is fantastic!,Positive
+1212,Average at best.,Neutral
+1213,Really disappointed.,Negative
+1214,Amazing experience!,Positive
+1215,Worst thing ever.,Negative
+1216,Amazing experience!,Positive
+1217,Absolutely thrilled with this!,Positive
+1218,This is fantastic!,Positive
+1219,Worst thing ever.,Negative
+1220,Average at best.,Neutral
+1221,Nothing special.,Neutral
+1222,It's okay.,Neutral
+1223,Nothing special.,Neutral
+1224,"Well done, great job!",Positive
+1225,Nothing special.,Neutral
+1226,Amazing experience!,Positive
+1227,I hate this.,Negative
+1228,Nothing special.,Neutral
+1229,This is fantastic!,Positive
+1230,Amazing experience!,Positive
+1231,Average at best.,Neutral
+1232,Amazing experience!,Positive
+1233,Never buying this again.,Negative
+1234,"Well done, great job!",Positive
+1235,"Well done, great job!",Positive
+1236,Never buying this again.,Negative
+1237,Terrible experience.,Negative
+1238,"Not bad, not great.",Neutral
+1239,Average at best.,Neutral
+1240,It's okay.,Neutral
+1241,Never buying this again.,Negative
+1242,I hate this.,Negative
+1243,Terrible experience.,Negative
+1244,Terrible experience.,Negative
+1245,Average at best.,Neutral
+1246,I love this!,Positive
+1247,Worst thing ever.,Negative
+1248,Nothing special.,Neutral
+1249,Average at best.,Neutral
+1250,It's just fine.,Neutral
+1251,Really disappointed.,Negative
+1252,This is fantastic!,Positive
+1253,Average at best.,Neutral
+1254,"Not bad, not great.",Neutral
+1255,Really disappointed.,Negative
+1256,This is fantastic!,Positive
+1257,Worst thing ever.,Negative
+1258,Really disappointed.,Negative
+1259,I hate this.,Negative
+1260,Amazing experience!,Positive
+1261,Terrible experience.,Negative
+1262,Nothing special.,Neutral
+1263,Never buying this again.,Negative
+1264,I love this!,Positive
+1265,It's okay.,Neutral
+1266,Amazing experience!,Positive
+1267,Absolutely thrilled with this!,Positive
+1268,It's just fine.,Neutral
+1269,Worst thing ever.,Negative
+1270,Average at best.,Neutral
+1271,This is fantastic!,Positive
+1272,Absolutely thrilled with this!,Positive
+1273,Terrible experience.,Negative
+1274,It's just fine.,Neutral
+1275,"Well done, great job!",Positive
+1276,"Well done, great job!",Positive
+1277,Nothing special.,Neutral
+1278,Average at best.,Neutral
+1279,Nothing special.,Neutral
+1280,Never buying this again.,Negative
+1281,Never buying this again.,Negative
+1282,Really disappointed.,Negative
+1283,I love this!,Positive
+1284,Absolutely thrilled with this!,Positive
+1285,This is fantastic!,Positive
+1286,This is fantastic!,Positive
+1287,This is fantastic!,Positive
+1288,Terrible experience.,Negative
+1289,Amazing experience!,Positive
+1290,Nothing special.,Neutral
+1291,It's okay.,Neutral
+1292,Average at best.,Neutral
+1293,Terrible experience.,Negative
+1294,Absolutely thrilled with this!,Positive
+1295,Absolutely thrilled with this!,Positive
+1296,"Not bad, not great.",Neutral
+1297,Really disappointed.,Negative
+1298,"Well done, great job!",Positive
+1299,Never buying this again.,Negative
+1300,Nothing special.,Neutral
+1301,I hate this.,Negative
+1302,"Well done, great job!",Positive
+1303,This is fantastic!,Positive
+1304,"Well done, great job!",Positive
+1305,It's okay.,Neutral
+1306,Really disappointed.,Negative
+1307,It's just fine.,Neutral
+1308,I hate this.,Negative
+1309,"Well done, great job!",Positive
+1310,I love this!,Positive
+1311,Absolutely thrilled with this!,Positive
+1312,Average at best.,Neutral
+1313,I hate this.,Negative
+1314,"Not bad, not great.",Neutral
+1315,It's just fine.,Neutral
+1316,Worst thing ever.,Negative
+1317,Really disappointed.,Negative
+1318,It's just fine.,Neutral
+1319,Amazing experience!,Positive
+1320,Average at best.,Neutral
+1321,Worst thing ever.,Negative
+1322,Average at best.,Neutral
+1323,Terrible experience.,Negative
+1324,Really disappointed.,Negative
+1325,This is fantastic!,Positive
+1326,I love this!,Positive
+1327,I hate this.,Negative
+1328,"Not bad, not great.",Neutral
+1329,Nothing special.,Neutral
+1330,I love this!,Positive
+1331,I love this!,Positive
+1332,"Well done, great job!",Positive
+1333,Terrible experience.,Negative
+1334,I hate this.,Negative
+1335,"Not bad, not great.",Neutral
+1336,Worst thing ever.,Negative
+1337,I love this!,Positive
+1338,It's just fine.,Neutral
+1339,It's just fine.,Neutral
+1340,I hate this.,Negative
+1341,Absolutely thrilled with this!,Positive
+1342,Average at best.,Neutral
+1343,Absolutely thrilled with this!,Positive
+1344,Nothing special.,Neutral
+1345,Really disappointed.,Negative
+1346,Never buying this again.,Negative
+1347,Absolutely thrilled with this!,Positive
+1348,I hate this.,Negative
+1349,I love this!,Positive
+1350,"Not bad, not great.",Neutral
+1351,Worst thing ever.,Negative
+1352,Absolutely thrilled with this!,Positive
+1353,It's just fine.,Neutral
+1354,It's okay.,Neutral
+1355,I love this!,Positive
+1356,"Not bad, not great.",Neutral
+1357,Terrible experience.,Negative
+1358,Terrible experience.,Negative
+1359,"Not bad, not great.",Neutral
+1360,Never buying this again.,Negative
+1361,Never buying this again.,Negative
+1362,Terrible experience.,Negative
+1363,Really disappointed.,Negative
+1364,Never buying this again.,Negative
+1365,Never buying this again.,Negative
+1366,Really disappointed.,Negative
+1367,Nothing special.,Neutral
+1368,Amazing experience!,Positive
+1369,Absolutely thrilled with this!,Positive
+1370,I hate this.,Negative
+1371,Average at best.,Neutral
+1372,Really disappointed.,Negative
+1373,It's just fine.,Neutral
+1374,Average at best.,Neutral
+1375,It's okay.,Neutral
+1376,It's just fine.,Neutral
+1377,Amazing experience!,Positive
+1378,Nothing special.,Neutral
+1379,It's okay.,Neutral
+1380,I hate this.,Negative
+1381,Nothing special.,Neutral
+1382,I hate this.,Negative
+1383,I hate this.,Negative
+1384,I hate this.,Negative
+1385,Never buying this again.,Negative
+1386,"Not bad, not great.",Neutral
+1387,Average at best.,Neutral
+1388,I love this!,Positive
+1389,Amazing experience!,Positive
+1390,Worst thing ever.,Negative
+1391,It's just fine.,Neutral
+1392,"Not bad, not great.",Neutral
+1393,Nothing special.,Neutral
+1394,I hate this.,Negative
+1395,It's okay.,Neutral
+1396,Average at best.,Neutral
+1397,I love this!,Positive
+1398,"Not bad, not great.",Neutral
+1399,Nothing special.,Neutral
+1400,Really disappointed.,Negative
+1401,I love this!,Positive
+1402,Amazing experience!,Positive
+1403,Nothing special.,Neutral
+1404,"Not bad, not great.",Neutral
+1405,I hate this.,Negative
+1406,Never buying this again.,Negative
+1407,Nothing special.,Neutral
+1408,Average at best.,Neutral
+1409,It's just fine.,Neutral
+1410,Worst thing ever.,Negative
+1411,This is fantastic!,Positive
+1412,"Not bad, not great.",Neutral
+1413,This is fantastic!,Positive
+1414,It's okay.,Neutral
+1415,It's okay.,Neutral
+1416,Nothing special.,Neutral
+1417,Absolutely thrilled with this!,Positive
+1418,Worst thing ever.,Negative
+1419,Amazing experience!,Positive
+1420,Average at best.,Neutral
+1421,It's okay.,Neutral
+1422,Amazing experience!,Positive
+1423,This is fantastic!,Positive
+1424,Absolutely thrilled with this!,Positive
+1425,Nothing special.,Neutral
+1426,I hate this.,Negative
+1427,Average at best.,Neutral
+1428,Worst thing ever.,Negative
+1429,"Well done, great job!",Positive
+1430,It's okay.,Neutral
+1431,"Well done, great job!",Positive
+1432,It's okay.,Neutral
+1433,I love this!,Positive
+1434,Really disappointed.,Negative
+1435,It's okay.,Neutral
+1436,Never buying this again.,Negative
+1437,Amazing experience!,Positive
+1438,Amazing experience!,Positive
+1439,This is fantastic!,Positive
+1440,Never buying this again.,Negative
+1441,Amazing experience!,Positive
+1442,Average at best.,Neutral
+1443,Nothing special.,Neutral
+1444,Nothing special.,Neutral
+1445,Average at best.,Neutral
+1446,I love this!,Positive
+1447,It's okay.,Neutral
+1448,It's just fine.,Neutral
+1449,Amazing experience!,Positive
+1450,It's okay.,Neutral
+1451,Average at best.,Neutral
+1452,This is fantastic!,Positive
+1453,It's just fine.,Neutral
+1454,Absolutely thrilled with this!,Positive
+1455,"Not bad, not great.",Neutral
+1456,"Not bad, not great.",Neutral
+1457,"Well done, great job!",Positive
+1458,I hate this.,Negative
+1459,I hate this.,Negative
+1460,Terrible experience.,Negative
+1461,"Not bad, not great.",Neutral
+1462,It's okay.,Neutral
+1463,I love this!,Positive
+1464,I love this!,Positive
+1465,"Not bad, not great.",Neutral
+1466,Never buying this again.,Negative
+1467,Terrible experience.,Negative
+1468,Amazing experience!,Positive
+1469,Absolutely thrilled with this!,Positive
+1470,Amazing experience!,Positive
+1471,"Well done, great job!",Positive
+1472,Absolutely thrilled with this!,Positive
+1473,Never buying this again.,Negative
+1474,"Well done, great job!",Positive
+1475,Worst thing ever.,Negative
+1476,It's okay.,Neutral
+1477,Average at best.,Neutral
+1478,Nothing special.,Neutral
+1479,"Not bad, not great.",Neutral
+1480,It's just fine.,Neutral
+1481,It's okay.,Neutral
+1482,Nothing special.,Neutral
+1483,It's just fine.,Neutral
+1484,Amazing experience!,Positive
+1485,Amazing experience!,Positive
+1486,Absolutely thrilled with this!,Positive
+1487,I love this!,Positive
+1488,Worst thing ever.,Negative
+1489,Terrible experience.,Negative
+1490,Amazing experience!,Positive
+1491,It's just fine.,Neutral
+1492,This is fantastic!,Positive
+1493,Absolutely thrilled with this!,Positive
+1494,Nothing special.,Neutral
+1495,Terrible experience.,Negative
+1496,Really disappointed.,Negative
+1497,It's just fine.,Neutral
+1498,Absolutely thrilled with this!,Positive
+1499,I hate this.,Negative
+1500,Nothing special.,Neutral
+1501,Average at best.,Neutral
+1502,Worst thing ever.,Negative
+1503,Nothing special.,Neutral
+1504,Amazing experience!,Positive
+1505,Absolutely thrilled with this!,Positive
+1506,I hate this.,Negative
+1507,Terrible experience.,Negative
+1508,Absolutely thrilled with this!,Positive
+1509,"Well done, great job!",Positive
+1510,I hate this.,Negative
+1511,Amazing experience!,Positive
+1512,Nothing special.,Neutral
+1513,Terrible experience.,Negative
+1514,I hate this.,Negative
+1515,Average at best.,Neutral
+1516,Absolutely thrilled with this!,Positive
+1517,Average at best.,Neutral
+1518,"Not bad, not great.",Neutral
+1519,Really disappointed.,Negative
+1520,Worst thing ever.,Negative
+1521,It's just fine.,Neutral
+1522,"Not bad, not great.",Neutral
+1523,Average at best.,Neutral
+1524,This is fantastic!,Positive
+1525,Worst thing ever.,Negative
+1526,It's just fine.,Neutral
+1527,This is fantastic!,Positive
+1528,Absolutely thrilled with this!,Positive
+1529,Worst thing ever.,Negative
+1530,"Well done, great job!",Positive
+1531,Nothing special.,Neutral
+1532,Average at best.,Neutral
+1533,Nothing special.,Neutral
+1534,This is fantastic!,Positive
+1535,I hate this.,Negative
+1536,Terrible experience.,Negative
+1537,Really disappointed.,Negative
+1538,"Not bad, not great.",Neutral
+1539,Terrible experience.,Negative
+1540,It's okay.,Neutral
+1541,Nothing special.,Neutral
+1542,Really disappointed.,Negative
+1543,"Not bad, not great.",Neutral
+1544,Really disappointed.,Negative
+1545,"Not bad, not great.",Neutral
+1546,It's okay.,Neutral
+1547,Terrible experience.,Negative
+1548,Nothing special.,Neutral
+1549,Amazing experience!,Positive
+1550,Really disappointed.,Negative
+1551,"Not bad, not great.",Neutral
+1552,Worst thing ever.,Negative
+1553,Amazing experience!,Positive
+1554,"Not bad, not great.",Neutral
+1555,It's just fine.,Neutral
+1556,I hate this.,Negative
+1557,Worst thing ever.,Negative
+1558,It's okay.,Neutral
+1559,Nothing special.,Neutral
+1560,It's okay.,Neutral
+1561,It's okay.,Neutral
+1562,It's just fine.,Neutral
+1563,Nothing special.,Neutral
+1564,"Not bad, not great.",Neutral
+1565,I hate this.,Negative
+1566,I love this!,Positive
+1567,Terrible experience.,Negative
+1568,This is fantastic!,Positive
+1569,It's just fine.,Neutral
+1570,"Well done, great job!",Positive
+1571,Really disappointed.,Negative
+1572,It's just fine.,Neutral
+1573,Never buying this again.,Negative
+1574,Never buying this again.,Negative
+1575,Absolutely thrilled with this!,Positive
+1576,Terrible experience.,Negative
+1577,"Not bad, not great.",Neutral
+1578,Absolutely thrilled with this!,Positive
+1579,Never buying this again.,Negative
+1580,Never buying this again.,Negative
+1581,It's okay.,Neutral
+1582,Amazing experience!,Positive
+1583,This is fantastic!,Positive
+1584,Worst thing ever.,Negative
+1585,Amazing experience!,Positive
+1586,Absolutely thrilled with this!,Positive
+1587,I hate this.,Negative
+1588,It's okay.,Neutral
+1589,Worst thing ever.,Negative
+1590,Worst thing ever.,Negative
+1591,Really disappointed.,Negative
+1592,Amazing experience!,Positive
+1593,Nothing special.,Neutral
+1594,"Not bad, not great.",Neutral
+1595,Really disappointed.,Negative
+1596,Nothing special.,Neutral
+1597,Amazing experience!,Positive
+1598,Really disappointed.,Negative
+1599,Never buying this again.,Negative
+1600,Absolutely thrilled with this!,Positive
+1601,Average at best.,Neutral
+1602,"Not bad, not great.",Neutral
+1603,Absolutely thrilled with this!,Positive
+1604,Average at best.,Neutral
+1605,Nothing special.,Neutral
+1606,Absolutely thrilled with this!,Positive
+1607,Never buying this again.,Negative
+1608,Worst thing ever.,Negative
+1609,This is fantastic!,Positive
+1610,Absolutely thrilled with this!,Positive
+1611,Terrible experience.,Negative
+1612,Never buying this again.,Negative
+1613,Average at best.,Neutral
+1614,I love this!,Positive
+1615,Absolutely thrilled with this!,Positive
+1616,"Not bad, not great.",Neutral
+1617,Really disappointed.,Negative
+1618,This is fantastic!,Positive
+1619,I love this!,Positive
+1620,Nothing special.,Neutral
+1621,I hate this.,Negative
+1622,Absolutely thrilled with this!,Positive
+1623,This is fantastic!,Positive
+1624,I love this!,Positive
+1625,It's just fine.,Neutral
+1626,I hate this.,Negative
+1627,Worst thing ever.,Negative
+1628,I love this!,Positive
+1629,I love this!,Positive
+1630,I hate this.,Negative
+1631,"Not bad, not great.",Neutral
+1632,"Well done, great job!",Positive
+1633,Worst thing ever.,Negative
+1634,Worst thing ever.,Negative
+1635,I love this!,Positive
+1636,Amazing experience!,Positive
+1637,I love this!,Positive
+1638,This is fantastic!,Positive
+1639,"Well done, great job!",Positive
+1640,It's okay.,Neutral
+1641,I hate this.,Negative
+1642,Absolutely thrilled with this!,Positive
+1643,Amazing experience!,Positive
+1644,Absolutely thrilled with this!,Positive
+1645,"Well done, great job!",Positive
+1646,This is fantastic!,Positive
+1647,Terrible experience.,Negative
+1648,Terrible experience.,Negative
+1649,Average at best.,Neutral
+1650,Really disappointed.,Negative
+1651,Worst thing ever.,Negative
+1652,I love this!,Positive
+1653,Absolutely thrilled with this!,Positive
+1654,Terrible experience.,Negative
+1655,Never buying this again.,Negative
+1656,Nothing special.,Neutral
+1657,I love this!,Positive
+1658,Really disappointed.,Negative
+1659,Amazing experience!,Positive
+1660,Absolutely thrilled with this!,Positive
+1661,Terrible experience.,Negative
+1662,Really disappointed.,Negative
+1663,Worst thing ever.,Negative
+1664,Amazing experience!,Positive
+1665,Worst thing ever.,Negative
+1666,It's just fine.,Neutral
+1667,I hate this.,Negative
+1668,Terrible experience.,Negative
+1669,Really disappointed.,Negative
+1670,Amazing experience!,Positive
+1671,"Not bad, not great.",Neutral
+1672,It's just fine.,Neutral
+1673,Nothing special.,Neutral
+1674,I love this!,Positive
+1675,Never buying this again.,Negative
+1676,Absolutely thrilled with this!,Positive
+1677,It's okay.,Neutral
+1678,I hate this.,Negative
+1679,Absolutely thrilled with this!,Positive
+1680,Never buying this again.,Negative
+1681,It's just fine.,Neutral
+1682,I hate this.,Negative
+1683,It's okay.,Neutral
+1684,Absolutely thrilled with this!,Positive
+1685,Amazing experience!,Positive
+1686,I love this!,Positive
+1687,I love this!,Positive
+1688,Average at best.,Neutral
+1689,This is fantastic!,Positive
+1690,Never buying this again.,Negative
+1691,Absolutely thrilled with this!,Positive
+1692,It's just fine.,Neutral
+1693,It's okay.,Neutral
+1694,Really disappointed.,Negative
+1695,"Well done, great job!",Positive
+1696,Nothing special.,Neutral
+1697,Never buying this again.,Negative
+1698,Terrible experience.,Negative
+1699,Terrible experience.,Negative
+1700,Nothing special.,Neutral
+1701,Amazing experience!,Positive
+1702,Worst thing ever.,Negative
+1703,This is fantastic!,Positive
+1704,It's just fine.,Neutral
+1705,Worst thing ever.,Negative
+1706,I hate this.,Negative
+1707,It's okay.,Neutral
+1708,"Not bad, not great.",Neutral
+1709,Terrible experience.,Negative
+1710,It's okay.,Neutral
+1711,"Well done, great job!",Positive
+1712,It's just fine.,Neutral
+1713,Nothing special.,Neutral
+1714,It's just fine.,Neutral
+1715,Terrible experience.,Negative
+1716,Amazing experience!,Positive
+1717,"Well done, great job!",Positive
+1718,I love this!,Positive
+1719,I love this!,Positive
+1720,Terrible experience.,Negative
+1721,It's okay.,Neutral
+1722,This is fantastic!,Positive
+1723,Worst thing ever.,Negative
+1724,It's okay.,Neutral
+1725,Never buying this again.,Negative
+1726,I hate this.,Negative
+1727,It's okay.,Neutral
+1728,Nothing special.,Neutral
+1729,"Not bad, not great.",Neutral
+1730,It's just fine.,Neutral
+1731,"Not bad, not great.",Neutral
+1732,Average at best.,Neutral
+1733,It's just fine.,Neutral
+1734,Amazing experience!,Positive
+1735,Amazing experience!,Positive
+1736,This is fantastic!,Positive
+1737,This is fantastic!,Positive
+1738,Amazing experience!,Positive
+1739,I hate this.,Negative
+1740,This is fantastic!,Positive
+1741,Amazing experience!,Positive
+1742,Average at best.,Neutral
+1743,This is fantastic!,Positive
+1744,This is fantastic!,Positive
+1745,I hate this.,Negative
+1746,This is fantastic!,Positive
+1747,Terrible experience.,Negative
+1748,Really disappointed.,Negative
+1749,It's just fine.,Neutral
+1750,Never buying this again.,Negative
+1751,I hate this.,Negative
+1752,Absolutely thrilled with this!,Positive
+1753,Absolutely thrilled with this!,Positive
+1754,It's just fine.,Neutral
+1755,It's okay.,Neutral
+1756,Really disappointed.,Negative
+1757,It's okay.,Neutral
+1758,Worst thing ever.,Negative
+1759,"Well done, great job!",Positive
+1760,Terrible experience.,Negative
+1761,"Not bad, not great.",Neutral
+1762,Really disappointed.,Negative
+1763,Absolutely thrilled with this!,Positive
+1764,Terrible experience.,Negative
+1765,"Well done, great job!",Positive
+1766,Terrible experience.,Negative
+1767,Worst thing ever.,Negative
+1768,Amazing experience!,Positive
+1769,Really disappointed.,Negative
+1770,"Not bad, not great.",Neutral
+1771,Amazing experience!,Positive
+1772,Amazing experience!,Positive
+1773,I love this!,Positive
+1774,Terrible experience.,Negative
+1775,Never buying this again.,Negative
+1776,Absolutely thrilled with this!,Positive
+1777,It's okay.,Neutral
+1778,"Well done, great job!",Positive
+1779,I hate this.,Negative
+1780,Really disappointed.,Negative
+1781,Absolutely thrilled with this!,Positive
+1782,Average at best.,Neutral
+1783,Never buying this again.,Negative
+1784,It's just fine.,Neutral
+1785,Amazing experience!,Positive
+1786,Absolutely thrilled with this!,Positive
+1787,I love this!,Positive
+1788,Never buying this again.,Negative
+1789,Average at best.,Neutral
+1790,Never buying this again.,Negative
+1791,Terrible experience.,Negative
+1792,"Not bad, not great.",Neutral
+1793,I love this!,Positive
+1794,"Well done, great job!",Positive
+1795,It's okay.,Neutral
+1796,It's just fine.,Neutral
+1797,I hate this.,Negative
+1798,"Not bad, not great.",Neutral
+1799,It's okay.,Neutral
+1800,This is fantastic!,Positive
+1801,Never buying this again.,Negative
+1802,Really disappointed.,Negative
+1803,"Not bad, not great.",Neutral
+1804,It's just fine.,Neutral
+1805,"Well done, great job!",Positive
+1806,It's just fine.,Neutral
+1807,Worst thing ever.,Negative
+1808,"Not bad, not great.",Neutral
+1809,Amazing experience!,Positive
+1810,It's okay.,Neutral
+1811,It's okay.,Neutral
+1812,Really disappointed.,Negative
+1813,Amazing experience!,Positive
+1814,Worst thing ever.,Negative
+1815,This is fantastic!,Positive
+1816,Really disappointed.,Negative
+1817,This is fantastic!,Positive
+1818,"Not bad, not great.",Neutral
+1819,This is fantastic!,Positive
+1820,"Not bad, not great.",Neutral
+1821,Average at best.,Neutral
+1822,Nothing special.,Neutral
+1823,I hate this.,Negative
+1824,"Well done, great job!",Positive
+1825,Absolutely thrilled with this!,Positive
+1826,Really disappointed.,Negative
+1827,"Well done, great job!",Positive
+1828,I hate this.,Negative
+1829,Average at best.,Neutral
+1830,Amazing experience!,Positive
+1831,Worst thing ever.,Negative
+1832,This is fantastic!,Positive
+1833,Absolutely thrilled with this!,Positive
+1834,"Not bad, not great.",Neutral
+1835,Nothing special.,Neutral
+1836,"Not bad, not great.",Neutral
+1837,I love this!,Positive
+1838,I hate this.,Negative
+1839,Nothing special.,Neutral
+1840,I love this!,Positive
+1841,"Not bad, not great.",Neutral
+1842,Absolutely thrilled with this!,Positive
+1843,Nothing special.,Neutral
+1844,Terrible experience.,Negative
+1845,"Well done, great job!",Positive
+1846,Never buying this again.,Negative
+1847,Nothing special.,Neutral
+1848,I love this!,Positive
+1849,Amazing experience!,Positive
+1850,"Well done, great job!",Positive
+1851,Amazing experience!,Positive
+1852,Worst thing ever.,Negative
+1853,"Well done, great job!",Positive
+1854,Average at best.,Neutral
+1855,It's just fine.,Neutral
+1856,I hate this.,Negative
+1857,Worst thing ever.,Negative
+1858,Nothing special.,Neutral
+1859,I hate this.,Negative
+1860,Worst thing ever.,Negative
+1861,Absolutely thrilled with this!,Positive
+1862,Amazing experience!,Positive
+1863,Terrible experience.,Negative
+1864,Average at best.,Neutral
+1865,Nothing special.,Neutral
+1866,"Not bad, not great.",Neutral
+1867,Average at best.,Neutral
+1868,Average at best.,Neutral
+1869,Nothing special.,Neutral
+1870,Terrible experience.,Negative
+1871,It's okay.,Neutral
+1872,It's just fine.,Neutral
+1873,It's okay.,Neutral
+1874,It's okay.,Neutral
+1875,Worst thing ever.,Negative
+1876,Nothing special.,Neutral
+1877,Nothing special.,Neutral
+1878,It's okay.,Neutral
+1879,This is fantastic!,Positive
+1880,I hate this.,Negative
+1881,"Well done, great job!",Positive
+1882,"Well done, great job!",Positive
+1883,"Well done, great job!",Positive
+1884,Never buying this again.,Negative
+1885,It's okay.,Neutral
+1886,Average at best.,Neutral
+1887,I love this!,Positive
+1888,I love this!,Positive
+1889,I love this!,Positive
+1890,It's okay.,Neutral
+1891,Really disappointed.,Negative
+1892,Terrible experience.,Negative
+1893,It's okay.,Neutral
+1894,"Not bad, not great.",Neutral
+1895,This is fantastic!,Positive
+1896,Really disappointed.,Negative
+1897,Really disappointed.,Negative
+1898,"Well done, great job!",Positive
+1899,This is fantastic!,Positive
+1900,Average at best.,Neutral
+1901,Average at best.,Neutral
+1902,I hate this.,Negative
+1903,This is fantastic!,Positive
+1904,I hate this.,Negative
+1905,I hate this.,Negative
+1906,Worst thing ever.,Negative
+1907,Nothing special.,Neutral
+1908,Terrible experience.,Negative
+1909,"Well done, great job!",Positive
+1910,This is fantastic!,Positive
+1911,This is fantastic!,Positive
+1912,It's okay.,Neutral
+1913,It's just fine.,Neutral
+1914,Really disappointed.,Negative
+1915,Nothing special.,Neutral
+1916,Terrible experience.,Negative
+1917,Never buying this again.,Negative
+1918,It's just fine.,Neutral
+1919,Absolutely thrilled with this!,Positive
+1920,Terrible experience.,Negative
+1921,Absolutely thrilled with this!,Positive
+1922,"Not bad, not great.",Neutral
+1923,It's okay.,Neutral
+1924,Never buying this again.,Negative
+1925,This is fantastic!,Positive
+1926,Terrible experience.,Negative
+1927,Absolutely thrilled with this!,Positive
+1928,Average at best.,Neutral
+1929,Really disappointed.,Negative
+1930,Really disappointed.,Negative
+1931,This is fantastic!,Positive
+1932,Worst thing ever.,Negative
+1933,Amazing experience!,Positive
+1934,"Not bad, not great.",Neutral
+1935,Worst thing ever.,Negative
+1936,Absolutely thrilled with this!,Positive
+1937,Really disappointed.,Negative
+1938,Worst thing ever.,Negative
+1939,Amazing experience!,Positive
+1940,"Well done, great job!",Positive
+1941,Really disappointed.,Negative
+1942,Amazing experience!,Positive
+1943,I love this!,Positive
+1944,Worst thing ever.,Negative
+1945,"Well done, great job!",Positive
+1946,"Not bad, not great.",Neutral
+1947,Amazing experience!,Positive
+1948,Really disappointed.,Negative
+1949,This is fantastic!,Positive
+1950,"Well done, great job!",Positive
+1951,I hate this.,Negative
+1952,Absolutely thrilled with this!,Positive
+1953,I love this!,Positive
+1954,Worst thing ever.,Negative
+1955,Really disappointed.,Negative
+1956,Never buying this again.,Negative
+1957,I hate this.,Negative
+1958,This is fantastic!,Positive
+1959,Terrible experience.,Negative
+1960,This is fantastic!,Positive
+1961,It's okay.,Neutral
+1962,This is fantastic!,Positive
+1963,Terrible experience.,Negative
+1964,Amazing experience!,Positive
+1965,Nothing special.,Neutral
+1966,Absolutely thrilled with this!,Positive
+1967,Terrible experience.,Negative
+1968,"Well done, great job!",Positive
+1969,"Not bad, not great.",Neutral
+1970,"Well done, great job!",Positive
+1971,Never buying this again.,Negative
+1972,I love this!,Positive
+1973,This is fantastic!,Positive
+1974,Really disappointed.,Negative
+1975,Absolutely thrilled with this!,Positive
+1976,"Not bad, not great.",Neutral
+1977,Terrible experience.,Negative
+1978,It's okay.,Neutral
+1979,Absolutely thrilled with this!,Positive
+1980,Really disappointed.,Negative
+1981,"Not bad, not great.",Neutral
+1982,"Well done, great job!",Positive
+1983,It's okay.,Neutral
+1984,"Well done, great job!",Positive
+1985,I hate this.,Negative
+1986,Amazing experience!,Positive
+1987,"Well done, great job!",Positive
+1988,Really disappointed.,Negative
+1989,Never buying this again.,Negative
+1990,I hate this.,Negative
+1991,"Not bad, not great.",Neutral
+1992,I love this!,Positive
+1993,Absolutely thrilled with this!,Positive
+1994,"Well done, great job!",Positive
+1995,"Not bad, not great.",Neutral
+1996,This is fantastic!,Positive
+1997,"Not bad, not great.",Neutral
+1998,"Not bad, not great.",Neutral
+1999,Terrible experience.,Negative
+2000,Amazing experience!,Positive
