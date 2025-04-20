@@ -118,3 +118,5 @@ def download_excel(n_clicks):
 # 6. Run App
 if __name__ == "__main__":
     app.run(debug=True)
+
+data = pd.read_csv("sample_transactions_100.csv")
