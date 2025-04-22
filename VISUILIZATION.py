@@ -120,3 +120,4 @@ if __name__ == "__main__":
     app.run(debug=True)
 
 data = pd.read_csv("sample_transactions_100.csv")
+pip install pandas plotly dash networkx matplotlib
